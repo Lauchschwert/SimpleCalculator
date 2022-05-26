@@ -1,0 +1,14 @@
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\netcoreapp3.1\Simple_Calculator.exe
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\netcoreapp3.1\Simple_Calculator.deps.json
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\netcoreapp3.1\Simple_Calculator.runtimeconfig.json
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\netcoreapp3.1\Simple_Calculator.runtimeconfig.dev.json
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\netcoreapp3.1\Simple_Calculator.dll
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\bin\Debug\netcoreapp3.1\Simple_Calculator.pdb
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\netcoreapp3.1\Simple_Calculator.csproj.AssemblyReference.cache
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\netcoreapp3.1\Simple_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\netcoreapp3.1\Simple_Calculator.AssemblyInfoInputs.cache
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\netcoreapp3.1\Simple_Calculator.AssemblyInfo.cs
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\netcoreapp3.1\Simple_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\netcoreapp3.1\Simple_Calculator.dll
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\netcoreapp3.1\Simple_Calculator.pdb
+C:\Users\ichhe\source\repos\Simple_Calculator\Simple_Calculator\obj\Debug\netcoreapp3.1\Simple_Calculator.genruntimeconfig.cache
