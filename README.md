@@ -3,5 +3,5 @@
 ### Preview
 
 <p align="center">
-<img src="/Simple_Calculator/Previews/VsDebugConsole_3vHvDhJbV6.png">
+<img src="/Simple_Calculator/Previews/Simple_Calculator_9Bjz9LUJBv.png">
 </p>
