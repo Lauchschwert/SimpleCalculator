@@ -1,5 +1,7 @@
 # Simple C# Calculator
 
+<p>I made a VERY simple Calculator in C#.<br>Check releases for latest versions.</p>
+
 ### Preview
 
 <p align="center">
